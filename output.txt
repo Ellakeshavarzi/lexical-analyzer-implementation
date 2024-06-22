@@ -1,0 +1,13 @@
+for1:Identifier
+( : Punctuators
+int:Keyword
+1 : Integer
+; : Punctuators
+i:Identifier
+< : Operator
+5 : Integer
+; : Punctuators
+i:Identifier
+++ : Operator
+) : Punctuators
+; : Punctuators
